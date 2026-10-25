@@ -1,5 +1,4 @@
 # Customer Value & Acquisition Budget: Management Summary
-*Customer Intelligence · 25 Oct 2026·
 
 ## Recommendation
 Fund **Direct, Email and Organic Search to their caps (€24k)**; they pay back within 90 days even on conservative assumptions. Treat the other **€26k (Affiliate €14k, Paid Search €12k) as conditional**: release it in tranches only after a holdout test confirms the assumed CAC. **Paid Social: €0.**
